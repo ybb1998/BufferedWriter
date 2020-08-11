@@ -1,2 +1,2 @@
-# BufferedWriter
-An exercise in Buffered writers, generic collections and collection framework
+# collection framework
+An exercise in generic collections and collection framework
